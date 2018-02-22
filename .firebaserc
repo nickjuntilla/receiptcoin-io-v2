@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "receiptcoin-receiptchain-de560",
+    "default": "receiptcoin-receiptchain-de560"
+  }
+}

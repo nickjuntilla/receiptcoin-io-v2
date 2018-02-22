@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/medium</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/medium" fill="#48567C">
+            <path d="M8,7.33317933 L13.333,15.8160655 L8,13.2037633 L8,7.33317933 Z M19.856,5.13684883 C19.931,5.17697786 19.966,5.27093852 19.917,5.34532405 L13.919,14.8793951 L9.56,7.94783867 L13.223,2.12032003 C13.285,2.02538061 13.416,1.98525158 13.519,2.03908321 L19.856,5.13684883 Z M14.232,16.248676 L20,7.08066005 L20,18.4626242 C20,18.7993165 19.752,18.9480876 19.45,18.7993165 L14.232,16.248676 Z M7,4.95088501 L7,18.4694755 C7,18.7993165 6.586,19.1105612 6.283,18.9617902 L0,15.717211 L0,2.34934915 C0,2.12619257 0.229,1.87269453 0.635,2.07236094 L7,4.95088501 Z" id="medium-[#149]"></path>
+        </g>
+    </g>
+</svg>

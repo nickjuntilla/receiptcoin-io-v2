@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="128" height="128"></rect>
+    </defs>
+    <g id="Artboard-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="Rectangle-12">
+                <use fill="#3A4769" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#FFFFFF" stroke-width="4" x="2" y="2" width="124" height="124"></rect>
+            </g>
+            <g id="Group-2" transform="translate(22.000000, 11.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold">
+                <text id="R" font-size="80">
+                    <tspan x="0.32" y="78">R</tspan>
+                </text>
+                <text id="c" font-size="64">
+                    <tspan x="48.832" y="89.2">c</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
