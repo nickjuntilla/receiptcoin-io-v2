@@ -43,8 +43,9 @@ class Overview extends Component {
           <Section>
             <Heading>What is the symbol for ReceiptCoin? </Heading>
             <Paragraph>
-              On Delta we are RCT. On imToken we are RC(ReciptCoin). On
-              MyEtherWallet we are RC. On EtherDelta we are RCT.
+              On Delta we are currently RCT. On imToken we are RC(ReciptCoin). On
+              MyEtherWallet we ask that you use RCPT. We are transitioning to RCPT to be more
+              globally compatible. What matters is that your root contract is 0xd6e49800dECb64C0e195F791348C1e87a5864FD7
             </Paragraph>
           </Section>
           <Section>

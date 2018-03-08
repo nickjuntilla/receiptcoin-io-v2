@@ -17,7 +17,7 @@ class Auth extends Component {
   render() {
     const { title, subtitle, children, onSubmit } = this.props;
     return (
-      <Form onSubmit={onSubmit} method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" action="https://receiptcoin.us17.list-manage.com/subscribe/post?u=03453efd479e6040f4a2382b5&amp;id=dbd9ceec0f">
+      <Form onSubmit={onSubmit} method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" action="https://receiptcoin.us17.list-manage.com/subscribe/post?u=03453efd479e6040f4a2382b5&amp;id=59d211a092">
         <Header>
           <Title>{title}</Title>
           <Subtitle>{subtitle}</Subtitle>
@@ -30,7 +30,7 @@ class Auth extends Component {
           <div class="response" id="mce-error-response" style={displayNone}></div>
           <div class="response" id="mce-success-response" style={displayNone}></div>
           </div>
-          <div style={offScreen} aria-hidden="true"><input type="text" name="b_03453efd479e6040f4a2382b5_dbd9ceec0f" tabindex="-1" value="" /></div>
+          <div style={offScreen} aria-hidden="true"><input type="text" name="b_03453efd479e6040f4a2382b5_59d211a092" tabindex="-1" value="" /></div>
       </Form>
     );
   }

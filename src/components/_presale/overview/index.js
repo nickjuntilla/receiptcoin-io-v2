@@ -25,12 +25,15 @@ class Overview extends Component {
           <Section>
             <Heading>Contract Address</Heading>
             <Paragraph>Price: 0.0001 / RC</Paragraph>
+            <Paragraph>Currently Distributed: 23%...</Paragraph>
             <Paragraph>Total Supply: 500,000,000</Paragraph>
+            <Paragraph>Hard Cap: 250,000,000</Paragraph>
+            <Paragraph>Rest: Distributed over 5 years based on market value</Paragraph>
             <Paragraph>Token Watch Address: 0xd6e49800dECb64C0e195F791348C1e87a5864FD7 (receiptcoin.eth)</Paragraph>
             <Paragraph>Symbol: RC(RCT Delta)</Paragraph>
             <Paragraph>Decimals: 9</Paragraph>
             <Paragraph>
-              Send Address: HERE FEB. 22ND 2:00PM PST (22:00 UTC)
+              Send Address: 0xb1350342F20DC4ec5D18Db85e827E7c0286AD859
             </Paragraph>
             <Paragraph>
               Maximums and Minimums: No

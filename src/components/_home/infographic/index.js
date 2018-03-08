@@ -10,7 +10,7 @@ class Infographic extends Component {
   render() {
     return (
       <Container>
-        <SectionHeader title="Increased Re-Use and Trade" />
+        <SectionHeader title="Identity of Things" />
         <Presenter>
           <Body src={flowChart} />
         </Presenter>

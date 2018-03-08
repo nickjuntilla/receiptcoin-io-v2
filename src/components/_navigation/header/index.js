@@ -47,7 +47,7 @@ class Header extends Component {
             <Item to="/team">Team</Item>
             <Item to="/faq">F.A.Q</Item>
 
-            <Button to="/register">Register</Button>
+            <Button to="/register">Register to Buy</Button>
           </ButtonContainer>
 
           <Hamburger onClick={this.toggleMenu}>

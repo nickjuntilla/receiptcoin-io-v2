@@ -9,14 +9,7 @@ const Countdown = ({ day, hour, minute, second }) => {
   return (
     <Container>
         <Numeral>
-          <Cntdwn
-          targetDate={new Date('2018-02-22 14:00:00')}
-          startDelay={0}
-          interval={1000}
-          format={{hour: 'HH', minute: 'MM',second: 'SS',day: 'DD'}}
-          timeSeparator={' '}
-          leadingZero
-          />
+          <span>0</span><span>0</span><span>0</span><span>0</span>
         </Numeral>
         <Wrapper>
           <Label>Days</Label>

@@ -19,6 +19,13 @@ export const Container = styled.div`
   flex-wrap: wrap;
 `;
 
+export const Content = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+`;
+
 export const Card = styled.div`
   height: auto;
   width: auto;
@@ -34,19 +41,32 @@ export const Card = styled.div`
   max-width: 48%;
   text-decoration: none;
   transition: 300ms;
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: center;
   padding: 12px;
-
   ${media.mobile`
     max-width: 100%;
     margin: 12px;
   `};
-
   ${media.tablet`
     max-width: 100%;
     margin: 12px;
   `};
+`;
+
+export const LinkedIn = styled.a`
+  height: 40px;
+  width: 100%;
+  background: ${_blue};
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 16px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  font-size: 14px;
 `;
 
 export const Avatar = styled.img`

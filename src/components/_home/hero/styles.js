@@ -2,6 +2,7 @@ import styled from 'styled-components';
 import { _blue } from '../../../constants/colors';
 import media from '../../../constants/media';
 import { Link } from 'react-router-dom';
+import ReactPlayer from 'react-player';
 
 export const Container = styled.div`
   width: 100vw;
@@ -105,4 +106,14 @@ export const Outline = styled(Link)`
   &:hover {
     cursor: pointer;
   }
+`;
+
+export const Video = styled.div`
+  width:93%;
+  height:85%;
+  position: relative;
+`;
+
+export const Play = styled(ReactPlayer)`
+
 `;

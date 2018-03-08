@@ -16,29 +16,29 @@ class Features extends Component {
           <Body>
             <Panel>
               <Section>
-                <Title>SAVE TIME</Title>
+                <Title>Save time</Title>
                 <Paragraph>
                   Every time we sell a product the images, description and meta
                   data for that product are lost forever. With our files and
                   products the data survives. This means less photoshoots,
                   looking for lost manuals, and trying to write catchy
-                  descriptions for selling your stuff. This data travels with
-                  the product from customer to customer forever.
+                  descriptions for selling your things. This data travels with
+                  the product from manufacturer to reseller to customer to customer and so on.
                 </Paragraph>
               </Section>
               <Section>
-                <Title>GET ORGANIZED</Title>
+                <Title>Orginzation</Title>
                 <Paragraph>
-                  ReceiptCoin is a series of products and services. First you
+                  ReceiptCoin is also making an app
+                  for you to trade, sell, and lend your own items using your
+                  convenient receipt files to keep track of everything. Then you
                   have the interface for business allowing your company to
                   create personal receipts and display them to your customers
-                  either in your app or ours. ReceiptCoin is also making an app
-                  for you to trade, sell, and lend your own items using your
-                  convenient receipt files to keep track of everything.
+                  either in your app or ours.
                 </Paragraph>
               </Section>
               <Section>
-                <Title>LEARN HOW</Title>
+                <Title>Create digital Assets</Title>
                 <Paragraph>
                   ReceiptCoin helps consumers and businesses create digital
                   assets that survive sale and trading. These assets represent

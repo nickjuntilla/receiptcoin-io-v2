@@ -17,7 +17,6 @@ class Home extends Component {
     return (
       <Page>
         <Hero />
-        <VideoPlayer />
         <Infographic />
         <Features />
       </Page>

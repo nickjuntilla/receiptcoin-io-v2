@@ -10,16 +10,15 @@ const Hero = () => {
   return (
     <Container>
       <Body>
-        <Heading>ReceiptCoin Main Token Distribution Event</Heading>
+        <Heading>Sale Address</Heading>
         <Row>
-          <Outline>RETURN FEB. 22ND 2:00 PM PST (22:00 UTC)</Outline>
+          <Outline>0xb1350342F20DC4ec5D18Db85e827E7c0286AD859</Outline>
         </Row>
-        {/*<Row>
-          <Outline>Send 1 ETH</Outline>
-          <Outline>Send 10 ETH</Outline>
-        </Row>*/}
+        <Row>
+          <Outline>Tokens are sent automatically upon receipt of ETH <br />
+          Please do not send from exchanges</Outline>
+        </Row>
 
-          <Countdown day="12" hour="53" minute="34" second="52" />
 
       </Body>
     </Container>
