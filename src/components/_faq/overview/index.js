@@ -29,7 +29,7 @@ class Overview extends Component {
               I sent money to the sale. How can I see my tokens??
             </Heading>
             <Paragraph>
-              In some apps like Delta (RCT), and Delta (RC) you will see your
+              In some apps like Delta (RCT), and imToken (RC) you will see your
               tokens immediately. In others like MyEtherWallet and Ethereum
               Wallet you will need to add the token in the custom token section.
               The token watch address is
@@ -44,8 +44,7 @@ class Overview extends Component {
             <Heading>What is the symbol for ReceiptCoin? </Heading>
             <Paragraph>
               On Delta we are currently RCT. On imToken we are RC(ReciptCoin). On
-              MyEtherWallet we ask that you use RCPT. We are transitioning to RCPT to be more
-              globally compatible. What matters is that your root contract is 0xd6e49800dECb64C0e195F791348C1e87a5864FD7
+              MyEtherWallet we are RC. What matters is that your root contract is 0xd6e49800dECb64C0e195F791348C1e87a5864FD7
             </Paragraph>
           </Section>
           <Section>

@@ -12,20 +12,20 @@ class Overview extends Component {
       <div>
         <Body>
           <Section>
+            <Paragraph><b>Bonus 1: Automatic +20% tokens spending over 1 ETH</b></Paragraph>
+            <Paragraph><b>Bonus 2: Automatic +40% tokens spending over 10 ETH</b></Paragraph>
             <Heading>Overview</Heading>
             <Paragraph>
               These are the tokens that are used to purchase ReceiptCoin
               services, traded in the app, and used with your ERC20 tools. You will receive your tokens automatically after sending to the sale address.
               There are 250,000,000 Tokens for sale. Distribution will continue until all 250 million are sold.
-              We recommend at least 100,000 Gas limit and 15 gwei while sending. If you receive and out of gas limit your gas limit may be too low or there may be no tokens left. We will update this page when that occurs.
+              We recommend at least 100,000 Gas limit and 15 gwei while sending.
               Purchasing ReceiptCoin is not intended to be used for financial
               gain. There are 500,000,000 total ReceiptCoin. The initial sale price is 0.0001 ETH / Token.
             </Paragraph>
           </Section>
           <Section>
-            <Heading>Contract Address</Heading>
             <Paragraph>Price: 0.0001 / RC</Paragraph>
-            <Paragraph>Currently Distributed: 23%...</Paragraph>
             <Paragraph>Total Supply: 500,000,000</Paragraph>
             <Paragraph>Hard Cap: 250,000,000</Paragraph>
             <Paragraph>Rest: Distributed over 5 years based on market value</Paragraph>

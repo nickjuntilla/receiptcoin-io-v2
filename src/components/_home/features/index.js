@@ -27,7 +27,7 @@ class Features extends Component {
                 </Paragraph>
               </Section>
               <Section>
-                <Title>Orginzation</Title>
+                <Title>Organization</Title>
                 <Paragraph>
                   ReceiptCoin is also making an app
                   for you to trade, sell, and lend your own items using your

@@ -24,8 +24,12 @@ export const SubHeading = styled.div`
   color: white;
   font-family: 'Sintony', sans-serif;
   font-weight: 400;
-  width: 45%;
+  width: 100%;
   margin: 8px;
+
+  a {
+    color: #fff;
+  }
 
   ${media.mobile`
     width: 100%;
@@ -63,7 +67,6 @@ export const Outline = styled.div`
   text-decoration: none;
 
   &:hover {
-    cursor: pointer;
   }
 
   ${media.mobile`
