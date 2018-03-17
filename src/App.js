@@ -11,6 +11,7 @@ import Airdrops from './pages/airdrops';
 import Bounties from './pages/bounties';
 import Contests from './pages/contests';
 import Whitepaper from './pages/whitepaper';
+import PrivacyPolicy from './pages/privacypolicy';
 
 // Import Global Components
 import Header from './components/_navigation/header';
@@ -31,6 +32,7 @@ class App extends Component {
           <Route exact path="/bounties" component={Bounties} />
           <Route exact path="/contests" component={Contests} />
           <Route exact path="/whitepaper" component={Whitepaper} />
+          <Route exact path="/privacypolicy" component={PrivacyPolicy} />
           <Route exact path="/" component={Home} />
           <Footer />
         </div>
